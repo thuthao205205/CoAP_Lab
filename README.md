@@ -4,15 +4,15 @@
 
 - **Môn học:** IoT và ứng dụng
 - **Bài thực hành:** Buổi 3 – Lập trình Python với giao thức CoAP
-- **Tên nhóm:** 20
+- **Nhóm:** 20
 
 ### Danh sách thành viên
 
 | STT | Họ và tên       | Mã sinh viên |
 | :-: | --------------- | ------------ |
 |  1  | Nguyễn Thu Thảo | B23DCCN776   |
-|  2  | [Lê Huy Hải]    | B23DCCN272   |
-|  3  | [Phạm Thu Hà]   | B23DCCN267   |
+|  2  | Lê Huy Hải      | B23DCCN272   |
+|  3  | Phạm Thu Hà     | B23DCCN267   |
 
 ## 2. Môi trường thực hiện
 
